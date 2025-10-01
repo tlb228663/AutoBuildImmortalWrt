@@ -48,3 +48,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
+# 打印机
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-usb-printer luci-i18n-usb-printer-zh-cn"
